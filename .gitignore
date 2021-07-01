@@ -2,10 +2,10 @@
 /node_modules
 
 # typescript output
-/dist
+#/dist
 
 # webpack output
-/browser
+#/browser
 
 # zip
 /*.zip
